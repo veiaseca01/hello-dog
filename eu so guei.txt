@@ -1,0 +1,23 @@
+- pesquisar no google o que sao variaveis:
+variaveis sao responsaveis por armazenar informacoes que podem ser alteradas conforme o produto
+
+- criar variavel que descreve um cachorro
+
+
+- criar um projeto chamado hello-dog
+
+- disponibilizar esse desafio no github
+
+cachorro
+- possuem:
+1. cauda
+2. patas finas
+3. pescoco forte
+4. orelha grandes e eretas
+5. focinho alongado
+6. mandibulas fortes
+7. pelos em quase toda dimensao do corpo
+8. quatro patas
+9. olfato e audicao agucados
+10. necessidade de leite na formacao (gay)
+11. sem dimorfismo sexual
